@@ -6,7 +6,7 @@ Le prix des items est négociable. Pour me contacter, rendez-vous à la section 
 ## Boîtier Canon EOS 5D
 **700$**
 
-![](images/small/DSCF0030.png)![](images/small/DSCF0031.png)
+![](images/small/DSCF0030.PNG)![](images/small/DSCF0031.PNG)
 
 ### Spécifications
  * Full frame sensor
@@ -22,7 +22,7 @@ Voir la review sur [dpreview](http://www.dpreview.com/reviews/canoneos5d/).
 ## Téléphoto Sigma 70-200mm pour Canon
 **500$**
 
-![](images/small/DSCF0039.png)![](images/small/DSCF0040.png)![](images/small/DSCF0041.png)![](images/small/DSCF0042.png)
+![](images/small/DSCF0039.PNG)![](images/small/DSCF0040.PNG)![](images/small/DSCF0041.PNG)![](images/small/DSCF0042.PNG)
 
  * 70-200mm
  * f/2.8
@@ -32,7 +32,7 @@ Vient avec étui
 ## Lentille Sigma 28mm pour Canon
 **150$**
 
-![](images/small/DSCF0032.png)![](images/small/DSCF0034.png)![](images/small/DSCF0035.png)
+![](images/small/DSCF0032.PNG)![](images/small/DSCF0034.PNG)![](images/small/DSCF0035.PNG)
 
  * 28mm
  * f/1.8
@@ -40,7 +40,7 @@ Vient avec étui
 ## Caméra vidéo Panasonic HDC-SD9
 **350$**
 
-![](images/small/DSCF0025.png)![](images/small/DSCF0027.png)
+![](images/small/DSCF0025.PNG)![](images/small/DSCF0027.PNG)
 
 Caméra vidéo Full HD enregistrant sur mémoire flash. 
 
