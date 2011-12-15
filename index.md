@@ -1,10 +1,24 @@
 # Divers à vendre
-Je mets en vente mon appareil photo et ma caméra vidéo puisque je ne les utilises plus.
+Je mets en vente <strike>mon appareil photo et</strike> (Vendu) ma caméra vidéo puisque je ne les utilises plus.
 
 Le prix des items est négociable. Pour me contacter, rendez-vous à la section "Contact" au bas de cette page.
 
+## Caméra vidéo Panasonic HDC-SD9
+**350$**
+
+![](images/small/DSCF0025.PNG)![](images/small/DSCF0027.PNG)
+
+Caméra vidéo Full HD enregistrant sur mémoire flash. 
+
+ * 1080p
+ * Peut enregistrer à 24 images/secondes
+ * A très peu servi (10 fois max)
+ * Inclus carte mémoire
+ * Zoom 10x
+ * Son 5.1
+
 ## Boîtier Canon EOS 5D
-**700$**
+**VENDU**
 
 ![](images/small/DSCF0030.PNG)![](images/small/DSCF0031.PNG)
 
@@ -20,7 +34,7 @@ Le prix des items est négociable. Pour me contacter, rendez-vous à la section 
 Voir la review sur [dpreview](http://www.dpreview.com/reviews/canoneos5d/).
 
 ## Téléphoto Sigma 70-200mm pour Canon
-**500$**
+**VENDU**
 
 ![](images/small/DSCF0039.PNG)![](images/small/DSCF0040.PNG)![](images/small/DSCF0041.PNG)![](images/small/DSCF0042.PNG)
 
@@ -30,26 +44,12 @@ Voir la review sur [dpreview](http://www.dpreview.com/reviews/canoneos5d/).
 Vient avec étui
 
 ## Lentille Sigma 28mm pour Canon
-**150$**
+**VENDU**
 
 ![](images/small/DSCF0032.PNG)![](images/small/DSCF0034.PNG)![](images/small/DSCF0035.PNG)
 
  * 28mm
  * f/1.8
-
-## Caméra vidéo Panasonic HDC-SD9
-**350$**
-
-![](images/small/DSCF0025.PNG)![](images/small/DSCF0027.PNG)
-
-Caméra vidéo Full HD enregistrant sur mémoire flash. 
-
- * 1080p
- * Peut enregistrer à 24 images/secondes
- * A très peu servi (10 fois max)
- * Inclus carte mémoire
- * Zoom 10x
- * Son 5.1
 
 ## Me contacter
  * **Téléphone**: 418-261-2884
