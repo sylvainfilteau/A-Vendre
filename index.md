@@ -2,6 +2,7 @@
 Le prix des items est négociable. Pour me contacter, rendez-vous à la section "Contact" au bas de cette page.
 
 ## MacBook Pro 5,3 (Acheté en août 2009)
+**850$**
 Cet ordinateur ma bien rendu service, mais c'est maintenant le temps venu de lui permettre de rendre service à d'autre.
 
  * Écran 15" - 1440x900
