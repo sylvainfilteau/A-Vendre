@@ -1,7 +1,17 @@
 # Divers à vendre
-Je mets en vente <strike>mon appareil photo et</strike> (Vendu) ma caméra vidéo puisque je ne les utilises plus.
-
 Le prix des items est négociable. Pour me contacter, rendez-vous à la section "Contact" au bas de cette page.
+
+## MacBook Pro 5,3 (Acheté en août 2009)
+Cet ordinateur ma bien rendu service, mais c'est maintenant le temps venu de lui permettre de rendre service à d'autre.
+
+ * Écran 15" - 1440x900
+ * Processeur Intel Core 2 Duo 2,66 GHz
+ * Mémoire 4 Go
+ * Disque dur 320 Go
+ * Carte Vidéo NVIDIA GeForce 9600M GT 256 Mo
+ * Mac OSX Mountain Lion
+ 
+![](images/small/DSCF1899.JPG)![](images/small/DSCF1900.JPG)![](images/small/DSCF1895.JPG)![](images/small/DSCF1897.JPG)![](images/small/DSCF1898.JPG)![](images/small/DSCF1892.JPG)
 
 ## Caméra vidéo Panasonic HDC-SD9
 **350$**
@@ -16,40 +26,6 @@ Caméra vidéo Full HD enregistrant sur mémoire flash.
  * Inclus carte mémoire
  * Zoom 10x
  * Son 5.1
-
-## Boîtier Canon EOS 5D
-**VENDU**
-
-![](images/small/DSCF0030.PNG)![](images/small/DSCF0031.PNG)
-
-### Spécifications
- * Full frame sensor
- * 12.8 mpx
- * Canon EF lens mount
- * ISO 50 - 3200 (when extended)
-
-### Inclus
- * 2 cartes mémoire 2go et 4go 
-
-Voir la review sur [dpreview](http://www.dpreview.com/reviews/canoneos5d/).
-
-## Téléphoto Sigma 70-200mm pour Canon
-**VENDU**
-
-![](images/small/DSCF0039.PNG)![](images/small/DSCF0040.PNG)![](images/small/DSCF0041.PNG)![](images/small/DSCF0042.PNG)
-
- * 70-200mm
- * f/2.8
-
-Vient avec étui
-
-## Lentille Sigma 28mm pour Canon
-**VENDU**
-
-![](images/small/DSCF0032.PNG)![](images/small/DSCF0034.PNG)![](images/small/DSCF0035.PNG)
-
- * 28mm
- * f/1.8
 
 ## Me contacter
  * **Téléphone**: 418-261-2884
